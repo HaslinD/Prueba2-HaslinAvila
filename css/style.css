@@ -33,3 +33,17 @@ h1{
 }
 */
 
+#twincool, #frametv, footer{
+	background-color: #E4E4E4;
+}
+
+footer #copy{
+	color: #1D1D1D;
+	text-align: center;
+}
+
+footer #info {
+	border-top: 1px solid #2F2F2F;
+	text-align: center;
+	padding: 40px 0;
+}
